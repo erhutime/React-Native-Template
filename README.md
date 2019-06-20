@@ -63,19 +63,26 @@ const styles = StyleSheet.create({
 
 注意点：
 1-：注意新建文件的名字，本例子中取名为:React-Native;
+
 2-：注意Extension的输入框填写为js;
 
 
 四：使用方式：
+
 分为两种，与上面配置方式一一对应：
 一：
+
 1-：点击New ，选择Java Script File；
+
 2-：输入新建文件的名字，并点击OK；
+
 3-：查看新建文件内容为填写的模版内容
 
 二：
 1-：点击New ，选择React-Native文件类型(与使用第二中配置方式时新建的名字一一对应)；
+
 2-：输入新建文件的名字，并点击OK；
+
 3-：查看新建文件内容为填写的模版内容
 
 使用效果截图：
@@ -84,9 +91,13 @@ const styles = StyleSheet.create({
 
 
 四:封装一些方法/组件使用模版快速生成
+
 1-： 选择Preferences;
+
 2-：搜索框输入Templates;
+
 3-：点击Live Templates;
+
 4-：点击左上角“+”号按钮
 
 依据下面视频,分别填写相关代码:
