@@ -9,9 +9,13 @@ React-Native-Template代码模版
 一：配置有两种方式(以mac配置为例)：
 一：
 1-： 选择Preferences;
+
 2-：搜索框输入Templates;
+
 3-：点击File and Code Templates
+
 4-：选中JavaScript File
+
 5-：删除里面的代码，把以下代码复制进去(此代码可以自定义,包括引入组件,方法,样式文件等)：
 ```
 import React, { Component } from 'react';
@@ -46,9 +50,13 @@ const styles = StyleSheet.create({
 
 二：
 1-： 选择Preferences;
+
 2-：搜索框输入Templates;
+
 3-：点击File and Code Templates
+
 4-：点击左上角“+”号按钮
+
 示例图如下：
 ![06200131.gif](https://upload-images.jianshu.io/upload_images/4803284-2e08051b1f56d466.gif?imageMogr2/auto-orient/strip)
 
