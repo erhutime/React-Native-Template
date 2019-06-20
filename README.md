@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
 若需要添加组件或代码,请下方留言,等后期添加完成可以下载。
 
 
-同时,也提供了一份导出文件,可直接倒入使用:
+同时,也提供了一份导出文件,可下载后导入使用:
 [https://github.com/erhutime/React-Native-Template](https://github.com/erhutime/React-Native-Template)
 
 
