@@ -145,6 +145,3 @@ const styles = StyleSheet.create({
 [https://github.com/erhutime/React-Native-Template](https://github.com/erhutime/React-Native-Template)
 
 
-
-另外,打一波广告:有软著需求可以找我,有优惠,有折扣!
-
